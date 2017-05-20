@@ -2,6 +2,8 @@ package fresh;
 
 public class Apple {
   
-  private String testStringjkjkjkj;
+
+  private String testStringllllllllllllllllllll;
+
 
 }
